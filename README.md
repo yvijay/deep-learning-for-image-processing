@@ -99,8 +99,6 @@
 
 [你可能遇到的问题](./summary_problem.md)
 
-如果有什么问题，也可以到我的CSDN中一起讨论。
-[https://blog.csdn.net/qq_37541097/article/details/103482003](https://blog.csdn.net/qq_37541097/article/details/103482003)
 
-我的bilibili频道：
-[https://space.bilibili.com/18161609/channel/index](https://space.bilibili.com/18161609/channel/index)
+
+
